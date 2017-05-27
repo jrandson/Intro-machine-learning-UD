@@ -1,3 +1,7 @@
+#Files
+##################
+projects/maildir
+
 # Compiled source #
 ###################
 *.com
@@ -19,6 +23,7 @@
 *.rar
 *.tar
 *.zip
+*.tgz
 
 # Logs and databases #
 ######################
